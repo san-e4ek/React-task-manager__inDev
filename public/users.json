@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Sanek",
+    "age": 24,
+    "skill": "TeamLead Front-end Developer"
+  },
+  {
+    "name": "Пушкин",
+    "age": 33,
+    "skill": "Поэт"
+  }
+]

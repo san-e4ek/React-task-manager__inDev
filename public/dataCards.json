@@ -1,0 +1,44 @@
+[
+  {
+    "number": 2432,
+    "balance": "45000 руб",
+    "userCard": {
+      "firstName": "Vin",
+      "lastName": "Disel",
+      "email": "fast_disel@disel.com"
+    },
+    "bank": {
+      "name": "Disel Bank",
+      "bik": 42800098644,
+      "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102016/untitled-1_99.jpg?itok=IHvC5qhV"
+    }
+  },
+  {
+    "number": 5634,
+    "balance": "34000 руб",
+    "userCard": {
+      "firstName": "Tom",
+      "lastName": "Cruise",
+      "email": "impossible_cruise@cruise.com"
+    },
+    "bank": {
+      "name": "Cruise Bank",
+      "bik": 420045450959,
+      "logo": "https://www.pngitem.com/pimgs/m/189-1890159_tom-cruise-png-download-illustration-transparent-png.png"
+    }
+  },
+  {
+    "number": 7623,
+    "balance": "413000 руб",
+    "userCard": {
+      "firstName": "Jason",
+      "lastName": "Statham",
+      "email": "immortal_jason@stetham.com"
+    },
+    "bank": {
+      "name": "Statham Bank",
+      "bik": 428057774845,
+      "logo": "https://images7.alphacoders.com/825/825451.jpg"
+    }
+  }
+]

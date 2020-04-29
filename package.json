@@ -1,0 +1,34 @@
+{
+  "name": "lessons",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack -p",
+    "start": "webpack-dev-server -d --content-base ./public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-react": "^7.9.4",
+    "@types/react": "^16.9.34",
+    "@types/react-dom": "^16.9.6",
+    "babel-loader": "^8.1.0",
+    "bootstrap": "^4.4.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.0",
+    "redux": "^4.0.5",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  },
+  "babel": {
+    "presets": [
+      "@babel/preset-react"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "book": {
+    "author": "Пушкин",
+    "name": "Евгений Онегин",
+    "type": "Роман в стихах",
+    "price": 299,
+    "pages": 350
+  },
+  "course": {
+    "name": "Java Script",
+    "time": "3 месяца",
+    "price": "50000 руб.",
+
+    "teacher": {
+      "name": "Вячеслав Жуков",
+      "age": "Бодрый!",
+      "skill": "ReactJS"
+    },
+
+    "school": {
+      "name": "iNordic",
+      "address": "Москва, ул. Большая спасская, д. 12",
+      "site": "inordic.ru"
+    }
+  }
+}
